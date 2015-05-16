@@ -2,6 +2,6 @@
 Margin and Padding
 CSS Helper
 
-Example:
+*Example:*
 ```html
 <div class="mt10">FooDiv</div>
